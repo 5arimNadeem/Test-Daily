@@ -1,0 +1,10 @@
+# Ignore Flutter build artifacts
+**/build/
+**/.dart_tool/
+
+# Ignore Gradle and Android caches
+**/android/.gradle/
+**/android/gradle/wrapper/gradle-*-all.zip
+*.apk
+*.dill
+*.so
